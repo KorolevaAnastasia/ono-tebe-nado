@@ -1,0 +1,27 @@
+.social-list{
+    list-style: none;
+    display: inline-flex;
+    width: 240px;
+    padding: 0;
+    margin: 0;
+    align-items: flex-start;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.social-icon{
+    width: 48px;
+    height: 48px;
+}
+
+.social-icon_youtube{
+    background: url("../../images/yt.svg") 50% 50% no-repeat;
+}
+
+.social-icon_vk{
+    background: url("../../images/vk.svg") 50% 50% no-repeat;
+}
+
+.social-icon_pinterest{
+    background: url("../../images/pinterest.svg") 50% 50% no-repeat;
+}

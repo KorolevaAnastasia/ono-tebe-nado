@@ -1,0 +1,20 @@
+.header{
+    display: inline-flex;
+    width: calc(100% - 50px*2);
+    height: 109px;
+    margin: 92px 50px;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+
+.header__logo{
+    background: url("../../images/logo-black.svg") no-repeat 50% 50%;
+    height: 105px;
+    width: 148px;
+    position: absolute;
+    top: 0;
+    right: calc(50% - 148px/2);
+}
+
+

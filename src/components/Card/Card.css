@@ -1,0 +1,45 @@
+.card{
+    width: 430px;
+    height: 450px;
+    position: relative;
+}
+
+.card__title{
+    position: absolute;
+    margin: 0;
+    top: 50px;
+    left: 40px;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: var(--main-white-color);
+    width: 350px;
+}
+
+.card__description{
+    position: absolute;
+    margin: 0;
+    bottom: 50px;
+    left: 40px;
+    width: 350px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    color: var(--main-white-color);
+}
+
+.card_type_film{
+    background: url('../../images/card-lot-01.jpg') 50% 50% no-repeat;
+}
+
+.card_type_book{
+    background: url('../../images/card-lot-02.jpg') 50% 50% no-repeat;
+}
+
+.card_type_picture{
+    background: url('../../images/card-lot-03.jpg') 50% 50% no-repeat;
+}
