@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/KorolevaAnastasia/ono-tebe-nado/static/css/main.32d4c8a7.css",
+    "main.js": "/KorolevaAnastasia/ono-tebe-nado/static/js/main.c91b61e5.js",
+    "static/js/787.49ba4c70.chunk.js": "/KorolevaAnastasia/ono-tebe-nado/static/js/787.49ba4c70.chunk.js",
+    "static/media/cover.jpg": "/KorolevaAnastasia/ono-tebe-nado/static/media/cover.f79881b48f3d2491fca7.jpg",
+    "static/media/card-lot-01.jpg": "/KorolevaAnastasia/ono-tebe-nado/static/media/card-lot-01.6f59b47e8890e9398882.jpg",
+    "static/media/card-lot-03.jpg": "/KorolevaAnastasia/ono-tebe-nado/static/media/card-lot-03.65958f4b6584a2acbae9.jpg",
+    "static/media/card-lot-02.jpg": "/KorolevaAnastasia/ono-tebe-nado/static/media/card-lot-02.06dece823ed92f43f5a0.jpg",
+    "static/media/Raleway-Bold.woff": "/KorolevaAnastasia/ono-tebe-nado/static/media/Raleway-Bold.11dbfe73ad026a077c5e.woff",
+    "static/media/Raleway-Regular.woff": "/KorolevaAnastasia/ono-tebe-nado/static/media/Raleway-Regular.1ff7a520a3a35a260fe7.woff",
+    "static/media/Raleway-Bold.woff2": "/KorolevaAnastasia/ono-tebe-nado/static/media/Raleway-Bold.e2874c3cbb148a689a56.woff2",
+    "static/media/Raleway-Regular.woff2": "/KorolevaAnastasia/ono-tebe-nado/static/media/Raleway-Regular.7b69108e3a1c157292f6.woff2",
+    "static/media/logo.svg": "/KorolevaAnastasia/ono-tebe-nado/static/media/logo.ba60f9aab6a4d825986b.svg",
+    "static/media/logo-black.svg": "/KorolevaAnastasia/ono-tebe-nado/static/media/logo-black.24bbe2d2ffb2b9e11a9e.svg",
+    "static/media/pinterest.svg": "/KorolevaAnastasia/ono-tebe-nado/static/media/pinterest.5755ce3109dc60119299.svg",
+    "static/media/vk.svg": "/KorolevaAnastasia/ono-tebe-nado/static/media/vk.c37196e8bb6ae1baa0b5.svg",
+    "static/media/yt.svg": "/KorolevaAnastasia/ono-tebe-nado/static/media/yt.941aeeed0354d488598d.svg",
+    "index.html": "/KorolevaAnastasia/ono-tebe-nado/index.html",
+    "main.32d4c8a7.css.map": "/KorolevaAnastasia/ono-tebe-nado/static/css/main.32d4c8a7.css.map",
+    "main.c91b61e5.js.map": "/KorolevaAnastasia/ono-tebe-nado/static/js/main.c91b61e5.js.map",
+    "787.49ba4c70.chunk.js.map": "/KorolevaAnastasia/ono-tebe-nado/static/js/787.49ba4c70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d4c8a7.css",
+    "static/js/main.c91b61e5.js"
+  ]
+}
